@@ -1,0 +1,81 @@
+2019-05-28 12:48:39,382:INFO: Summary name grads norm is illegal; using grads_norm instead.
+2019-05-28 12:48:39,384:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-05-28 12:48:39,385:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-05-28 12:48:39,387:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-05-28 12:48:39,388:INFO: Summary name Avg Q is illegal; using Avg_Q instead.
+2019-05-28 12:48:39,390:INFO: Summary name Max Q is illegal; using Max_Q instead.
+2019-05-28 12:48:39,391:INFO: Summary name Std Q is illegal; using Std_Q instead.
+2019-05-28 12:48:39,393:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-05-28 12:48:39,887:INFO: Evaluating...
+2019-05-28 12:49:18,562:INFO: Summary name grads norm is illegal; using grads_norm instead.
+2019-05-28 12:49:18,564:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-05-28 12:49:18,567:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-05-28 12:49:18,569:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-05-28 12:49:18,571:INFO: Summary name Avg Q is illegal; using Avg_Q instead.
+2019-05-28 12:49:18,572:INFO: Summary name Max Q is illegal; using Max_Q instead.
+2019-05-28 12:49:18,573:INFO: Summary name Std Q is illegal; using Std_Q instead.
+2019-05-28 12:49:18,575:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-05-28 12:49:19,051:INFO: Evaluating...
+2019-05-28 12:50:28,529:INFO: Average reward: -20.94 +/- 0.03
+2019-05-28 12:50:34,197:INFO: - Training done.
+2019-05-28 12:50:34,574:INFO: Evaluating...
+2019-05-28 12:51:44,360:INFO: Average reward: -20.94 +/- 0.03
+2019-05-28 12:51:44,396:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans (u'/Users/cherrysun/Documents/Robot/my_folder/python2/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2019-05-28 12:54:55,408:INFO: Reading model parameters from results/atari/s0/model.weights/
+2019-05-28 12:54:55,410:INFO: Restoring parameters from results/atari/s0/model.weights/
+2019-05-28 12:54:55,547:INFO: [Teacher] Num params: 6716748
+2019-05-28 12:54:56,158:INFO: Summary name grads norm is illegal; using grads_norm instead.
+2019-05-28 12:54:56,158:INFO: Summary name grads norm is illegal; using grads_norm instead.
+2019-05-28 12:54:56,159:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-05-28 12:54:56,159:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-05-28 12:54:56,161:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-05-28 12:54:56,161:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-05-28 12:54:56,163:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-05-28 12:54:56,163:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-05-28 12:54:56,164:INFO: Summary name Avg Q is illegal; using Avg_Q instead.
+2019-05-28 12:54:56,164:INFO: Summary name Avg Q is illegal; using Avg_Q instead.
+2019-05-28 12:54:56,165:INFO: Summary name Max Q is illegal; using Max_Q instead.
+2019-05-28 12:54:56,165:INFO: Summary name Max Q is illegal; using Max_Q instead.
+2019-05-28 12:54:56,167:INFO: Summary name Std Q is illegal; using Std_Q instead.
+2019-05-28 12:54:56,167:INFO: Summary name Std Q is illegal; using Std_Q instead.
+2019-05-28 12:54:56,168:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-05-28 12:54:56,168:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-05-28 12:54:56,892:INFO: Evaluating...
+2019-05-28 12:54:56,892:INFO: Evaluating...
+2019-05-28 12:55:48,194:INFO: Average reward: -20.90 +/- 0.04
+2019-05-28 12:55:48,194:INFO: Average reward: -20.90 +/- 0.04
+2019-05-28 12:55:52,381:INFO: - Training done.
+2019-05-28 12:55:52,381:INFO: - Training done.
+2019-05-28 12:55:52,649:INFO: Evaluating...
+2019-05-28 12:55:52,649:INFO: Evaluating...
+2019-05-28 12:56:44,527:INFO: Average reward: -20.94 +/- 0.03
+2019-05-28 12:56:44,527:INFO: Average reward: -20.94 +/- 0.03
+2019-05-28 12:59:38,225:INFO: Reading model parameters from results/atari/s1/model.weights/
+2019-05-28 12:59:38,226:INFO: Restoring parameters from results/atari/s1/model.weights/
+2019-05-28 12:59:38,257:INFO: [Teacher] Num params: 432492
+2019-05-28 12:59:38,889:INFO: Summary name grads norm is illegal; using grads_norm instead.
+2019-05-28 12:59:38,889:INFO: Summary name grads norm is illegal; using grads_norm instead.
+2019-05-28 12:59:38,893:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-05-28 12:59:38,893:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2019-05-28 12:59:38,894:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-05-28 12:59:38,894:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2019-05-28 12:59:38,896:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-05-28 12:59:38,896:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2019-05-28 12:59:38,897:INFO: Summary name Avg Q is illegal; using Avg_Q instead.
+2019-05-28 12:59:38,897:INFO: Summary name Avg Q is illegal; using Avg_Q instead.
+2019-05-28 12:59:38,899:INFO: Summary name Max Q is illegal; using Max_Q instead.
+2019-05-28 12:59:38,899:INFO: Summary name Max Q is illegal; using Max_Q instead.
+2019-05-28 12:59:38,900:INFO: Summary name Std Q is illegal; using Std_Q instead.
+2019-05-28 12:59:38,900:INFO: Summary name Std Q is illegal; using Std_Q instead.
+2019-05-28 12:59:38,902:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-05-28 12:59:38,902:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2019-05-28 12:59:39,401:INFO: Evaluating...
+2019-05-28 12:59:39,401:INFO: Evaluating...
+2019-05-28 13:00:29,400:INFO: Average reward: -21.00 +/- 0.00
+2019-05-28 13:00:29,400:INFO: Average reward: -21.00 +/- 0.00
+2019-05-28 13:00:33,554:INFO: - Training done.
+2019-05-28 13:00:33,554:INFO: - Training done.
+2019-05-28 13:00:33,799:INFO: Evaluating...
+2019-05-28 13:00:33,799:INFO: Evaluating...
+2019-05-28 13:01:25,523:INFO: Average reward: -21.00 +/- 0.00
+2019-05-28 13:01:25,523:INFO: Average reward: -21.00 +/- 0.00
