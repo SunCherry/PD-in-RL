@@ -1,7 +1,14 @@
-# cs234-policydist
+# The reference code comes from https://github.com/ciwang/policydistillation
 
-Reproducing the algorithm described in [Rusu et al., 2016](https://arxiv.org/abs/1511.06295). 
+ # Two key variables:
+ 
+ gen: the generation of student, gen=0 denotes teacher model, gen=1 denotes the first generation model, etc.
+ 
+ size1, size2, size3, size4(natureqn.py): sizes of all layers, change them manually according "gen"
+ 
+Example for "Quick" start:
+- Train Teacher model : Run ```python natureqn_atari.py```  Make sure "gen=0"
 
-"Quick" start:
-- Run ```python natureqn_atari.py``` to train the teacher netowork. (This will take ~12 hours.) Skip this step if trained Tensorflow DQN for Pong is saved as a checkpoint.
-- Run ```python distilledqn_atari.py``` to train the student network. Make sure the loss function and checkpoint directory are correct.
+- Train the first generation student model :Run ```python distilledqn_atari.py```, makesure gen=1 by setting "model = DistilledQN(env, config, gen =1)"
+
+- Train the second generation student model: Run ```python distilledqn_atari.py```, makesure gen=1 by setting "model = DistilledQN(env, config, gen =2)", don't forget to change sizes in "natureqn.py"
