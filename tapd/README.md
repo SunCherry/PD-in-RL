@@ -2,7 +2,7 @@
 
  # Two key variables:
  
- gen: the generation of student, gen=0 denotes teacher model, gen=1 denotes the first generation model, etc.
+ gen: the generation of student, gen=0 denotes teacher model, gen=1 denotes the first generation student model, etc.
  
  size1, size2, size3, size4(natureqn.py): sizes of all layers, change them manually according "gen"
  
