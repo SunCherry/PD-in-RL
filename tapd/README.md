@@ -2,9 +2,9 @@
 
  # Two key variables:
  
- gen: the generation of student, gen=0 denotes teacher model, gen=1 denotes the first generation student model, etc.
+ "gen": the generation of student, gen=0 denotes teacher model, gen=1 denotes the first generation student model, etc.
  
- size1, size2, size3, size4(natureqn.py): sizes of all layers, change them manually according "gen"
+ "size1, size2, size3, size4"(in natureqn.py): sizes of all layers, change them manually according "gen"
  
 Example for "Quick" start:
 - Train Teacher model : Run ```python natureqn_atari.py```  Make sure "gen=0" by setting "model = NatureQN(env, config, gen=0)"
