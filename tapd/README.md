@@ -7,7 +7,7 @@
  size1, size2, size3, size4(natureqn.py): sizes of all layers, change them manually according "gen"
  
 Example for "Quick" start:
-- Train Teacher model : Run ```python natureqn_atari.py```  Make sure "gen=0" by setting model = NatureQN(env, config, gen=0)
+- Train Teacher model : Run ```python natureqn_atari.py```  Make sure "gen=0" by setting "model = NatureQN(env, config, gen=0)"
 
 - Train the first generation student model :Run ```python distilledqn_atari.py```, makesure gen=1 by setting "model = DistilledQN(env, config, gen =1)"
 
