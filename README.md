@@ -1,4 +1,4 @@
-# TA-PD
+# TA
 Do policy distillation via Teacher Assistant
 
 Main reference paper:
@@ -52,5 +52,5 @@ More papers on knowledge distillation: https://github.com/dkozlov/awesome-knowle
 
 - Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data: https://arxiv.org/pdf/1811.11479.pdf
   
- - Codes are located in folder "tapd"
+ Codes are located in folder "tapd"
               
