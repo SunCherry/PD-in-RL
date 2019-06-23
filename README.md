@@ -20,5 +20,23 @@ N2N LEARNING: NETWORK TO NETWORK COM- PRESSION VIA POLICY GRADIENT REINFORCEMENT
 3).  Knowledge Distillation via Route Constrained Optimization
   https://arxiv.org/pdf/1904.09149.pdf
   
+  
+ Paper shared by Dr.Pooyan Fazli before:
+ 
+ - Dataset Distillation (NeurIPS 2018): https://arxiv.org/pdf/1811.10959.pdf
+ 
+- KDGAN: Knowledge Distillation with Generative Adversarial Networks (NeurIPS 2018): http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf
+
+- Knowledge Distillation by On-the-Fly Native Ensemble (NeurIPS 2018): 
+http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble.pdf
+
+- Born-Again Neural Networks (ICML 2018): https://arxiv.org/pdf/1805.04770.pdf
+
+- Distilling the Knowledge in a Neural Network (Hinton's 2015 paper): https://arxiv.org/pdf/1503.02531.pdf
+
+- Few-shot learning of neural networks from scratch by pseudo example optimization (BMVC 2018): http://bmvc2018.org/contents/papers/0366.pdf
+
+More papers on knowledge distillation: https://github.com/dkozlov/awesome-knowledge-distillation
+  
  - Codes are located in folder "tapd"
               
