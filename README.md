@@ -38,7 +38,7 @@ http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ens
 
 More papers on knowledge distillation: https://github.com/dkozlov/awesome-knowledge-distillation
 
-# Some recent arxiv papers mainly on CNNs:
+"Some recent arxiv papers mainly on CNNs:"
 
 - Quantized Guided Pruning for Efficient Hardware Implementations of Convolutional Neural Networks: https://arxiv.org/pdf/1812.11337.pdf
 
