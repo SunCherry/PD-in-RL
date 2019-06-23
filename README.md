@@ -17,6 +17,7 @@ N2N LEARNING: NETWORK TO NETWORK COM- PRESSION VIA POLICY GRADIENT REINFORCEMENT
               
 2). Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
               
+3).  Knowledge Distillation via Route Constrained Optimization
   https://arxiv.org/pdf/1904.09149.pdf
   
  - Codes are located in folder "tapd"
