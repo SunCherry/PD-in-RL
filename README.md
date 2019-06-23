@@ -21,7 +21,7 @@ https://arxiv.org/pdf/1904.05835.pdf
   https://arxiv.org/pdf/1904.09149.pdf
   
   
- Paper shared by Dr.Pooyan Fazli before:
+# Paper shared by Dr.Pooyan Fazli before:
  
  - Dataset Distillation (NeurIPS 2018): https://arxiv.org/pdf/1811.10959.pdf
  
@@ -38,7 +38,7 @@ http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ens
 
 More papers on knowledge distillation: https://github.com/dkozlov/awesome-knowledge-distillation
 
-Some recent arxiv papers mainly on CNNs:
+# Some recent arxiv papers mainly on CNNs:
 
 - Quantized Guided Pruning for Efficient Hardware Implementations of Convolutional Neural Networks: https://arxiv.org/pdf/1812.11337.pdf
 
