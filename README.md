@@ -20,6 +20,9 @@ https://arxiv.org/pdf/1904.05835.pdf
 -  Knowledge Distillation via Route Constrained Optimization
   https://arxiv.org/pdf/1904.09149.pdf
   
+- Deep Mutual Learning http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf
+
+- Distillation Strategies for Proximal Policy Optimization https://arxiv.org/pdf/1901.08128.pdf
   
 # Paper shared by Dr.Pooyan Fazli before:
  
